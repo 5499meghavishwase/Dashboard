@@ -1,4 +1,4 @@
-# Dashboard
+# Looker Dashboard
 Project Name : Finops dashboard 
 Project objective : To build and create dashboard for cost optimization 
 Tools and technology : Google Looker Studio , Google Bigquery 
